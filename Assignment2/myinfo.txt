@@ -1,3 +1,7 @@
 Bao Luu
 email
+<<<<<<< HEAD
 Fall 2022
+=======
+bluu9
+>>>>>>> fd54d88 (Edited myinfo file for the third time)
